@@ -102,6 +102,7 @@
         <value>325.59</value>
     </array>
     <item name="cpu.awake">8.62</item>
+    <item name="cpu.idle">5.26</item>
     <item name="battery.capacity">5260</item>
     <item name="wifi.controller.idle">0</item>
     <item name="wifi.controller.rx">0</item>

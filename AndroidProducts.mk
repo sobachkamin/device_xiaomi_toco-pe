@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_toco.mk
+    $(LOCAL_DIR)/ssos_toco.mk

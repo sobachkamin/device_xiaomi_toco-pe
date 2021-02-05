@@ -31,6 +31,9 @@ TARGET_USES_64_BIT_BINDER := true
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
 
+# FOD key for InputDispatcher to skip
+TARGET_INPUTDISPATCHER_SKIP_EVENT_KEY := 338
+
 # Assert
 TARGET_OTA_ASSERT_DEVICE := toco
 TARGET_NO_BOOTLOADER := true
